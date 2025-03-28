@@ -1,8 +1,5 @@
 # AWS_Data-Engineering-Full-Stack-Sales-Data-Hudi-Glue-EMR-ManageAirflow
 
-# AWS Sales Data ETL
-
-
 Sales Data Pipeline 
 AWS Cloud Data Engineering Project | Data Pipeline using Apache Hudi, EMR, Glue Pyspark, Redshift, Athena, Manage Airflow
 
